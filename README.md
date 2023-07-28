@@ -7,7 +7,11 @@ The main page allows users to fetch the latest information for all players in th
 The flask app is responsible for the scraping and calculations that give players a huge range of suggestions.
 ![Hubpage](/scraping.png "Server side")
 
-Finally you move onto your results, which are sorted by score and filtered according to the user's needs.
+Finally, your results. These are sorted by score and filtered according to the user's needs.
 ![Hubpage](/results.png "Results")
 
 
+This app is built on React  for the front end and has required me to learn JSX, CSS and more.
+Complex Python implementation has allowed for a variety of tasks for the flask back end.
+The app is now in the process of being refined so that it can be one clean, installable file that can be used on desktop and mobile.
+Suggestions welcome!
