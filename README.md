@@ -29,4 +29,5 @@ Complex Python implementation has allowed for a variety of tasks for the flask b
 The app is now in the process of being refined so that it can be one clean, installable file that can be used on desktop and mobile.
 Suggestions welcome!
 
+*Most key files found in src folder*
 
