@@ -14,7 +14,7 @@ const App = () => {
           <Route path="/results" element={<ResultsPage />} />
         </Routes>
       </Router>
-      <p>Learn React</p> {/* Add this line!!! sync with other file*/}
+      <p>Malachi Kakembo</p> {/* Add this line!!! sync with other file*/}
     </BackgroundContainer>
   );
 };

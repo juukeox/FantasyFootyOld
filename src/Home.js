@@ -14,7 +14,7 @@ const Home = () => {
   };
 
   const runTable = () => {
-    axios.get('http://localhost:3000/run-table')
+    axios.get('http://localhost:5000/run-table')
       .then(response => {
         console.log(response.data);
       })
