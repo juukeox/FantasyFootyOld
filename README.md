@@ -8,14 +8,23 @@ Users start by **fetching the latest information for all players in the online F
  ![Hubpage](/hubpage.png "Hubpage") &#160;
 
 
+ 
+
+
 
 The flask app is responsible for the **scraping and calculations that give players a huge range of suggestions.**
  ![Hubpage](/scraping.png "Server side") &#160;
 
 
 
+
+
+
 **Finally, your results.** These are sorted by score and filtered according to the user's needs.
 ![Hubpage](/results.png "Results") &#160;
+
+
+
 
 
 
