@@ -32,7 +32,7 @@ Suggestions welcome!
 *Most key files found in src folder*
 
 # To Run
-(Assumed Windows powershell
+(Assumed Windows powershell)
 
 ## Back end
 Go into the "src" folder (within root directory) and activate the virtual environment with .\venv\Scripts\activate
